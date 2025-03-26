@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../ESP32_Test1"
+		},
+		{
+			"name": "dht22",
+			"path": "../dht22"
+		},
+		{
+			"name": "OLED_DHT22",
+			"path": "."
+		},
+		{
+			"name": "ESP32_MQTT",
+			"path": "../ESP32_MQTT"
+		}
+	],
+	"settings": {}
+}
